@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <!-- templates/base.html -->
+
+    <a href="{% url 'home' %}">Home</a> |
+
+    <a href="{% url 'about' %}">About</a> |
+
+    <a href="{% url 'John' %}">John</a>
+
+    {% block content %} {% endblock content %}
+</body>
+</html>
