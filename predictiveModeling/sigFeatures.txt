@@ -1,0 +1,15 @@
+Medu
+failures
+goout
+sex_F
+sex_M
+schoolsup_no
+schoolsup_yes
+reason_course
+reason_home
+reason_other
+reason_reputation
+age_adult
+absences_sometimes
+absences_often
+absences_a lot

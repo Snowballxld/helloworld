@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+  <!-- templates/home.html -->
+
+{% extends "base.html" %}
+
+
+
+{% block content %}
+
+  <h1>Results page</h1>
+
+  You entered the following information:<br/>
+
+  Years work exerience {{choice}}<br/>
+
+  GMAT Score {{gmat}}
+
+{% endblock content %}
+</body>
+</html>

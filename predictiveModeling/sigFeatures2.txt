@@ -1,0 +1,13 @@
+Seat_num
+Door_num
+category_anomaly_1.0
+repair_date
+repair_hours
+issue_Engine Issue
+Bodytype_Estate
+Bodytype_Car Derived Van
+Bodytype_SUV
+category_anomaly_0.0
+Fuel_type_Hydrogen
+breakdown_date
+Bodytype_Wood
